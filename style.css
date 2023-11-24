@@ -1,0 +1,223 @@
+header{
+    display: inline;
+    padding: 10px;
+}
+.navbar{
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+#doubletaplogo{
+    margin-left: 50px;
+    height: 40px;
+}
+
+.navlink{
+    display: inline;
+    
+}
+a{
+    text-decoration: none;
+    list-style-type:  none;
+    color: black;
+    padding: 50px;
+}
+a:hover{
+    color: blue;
+}
+.topbtn{
+    display: flex;
+}
+.signin{
+    padding-right: 20px;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.topleft{
+    padding-left: 100px;
+}
+.signupfree{
+    padding-right: 10px;
+}
+.topbutton{
+    display: flex;
+    flex-direction: row;
+    margin-right: 50%;
+}
+.alreadyusing{
+    color: darkgray;
+    padding-top: 10px;
+}
+span{
+    color: darkgray;
+    font-weight: bold;
+}
+.trialbox{
+    display: flex;
+    padding-right: 100px;
+}
+.trial{
+    color: blue;
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+
+}
+.triallist{
+    padding-right: 20px;
+}
+.triallist1{
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+.subscription{
+    color: darkgray;
+    font-weight: bold;
+    margin-right: 50%;
+}
+#headerside{
+    height: 550px;
+    padding-right: 60px;
+}
+.tophr{
+    margin-left: 15%;
+    margin-right: 15%;
+    color: black;
+}
+.howitworks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-weight: bold;
+    font-size: 20px;
+}
+#howitworks{
+    padding: 30px;
+}
+
+.infobox{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.collectinfobox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+    background-color: rgb(0, 106, 255);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 30px;
+    
+}
+.collectinfoparagraph{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 50px;
+}
+
+#collectinfo{
+    height:600px;
+    width: 500px;
+    padding: 50px;
+
+}
+.bottomwords{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 100px;
+}
+
+.getpaidbox{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 30px;
+    border: 1px;
+}
+.getpaid{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+    background-color: rgb(0, 106, 255);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 30px;
+
+}
+.getpaidpar{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 50px;
+}
+
+#takepayments{
+    height:600px;
+    width: 500px;
+    padding: 50px;
+}
+.bottom{
+    padding-bottom: 150px;
+}
+footer{
+    background-color: rgb(0, 106, 255);
+    padding-top: 50px;
+    padding-bottom: 100px;
+    color: white;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+}
+.bottombtn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 42%;
+}
+.getstarted{
+    padding-right: 30px;
+}
+.trialboxbottom{
+    padding-top: 20px;
+    margin-left: 33%;
+}
+.trialwhite{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+
+}
