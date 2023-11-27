@@ -205,14 +205,14 @@ footer{
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-left: 42%;
+    margin-left: 43%;
 }
 .getstarted{
     padding-right: 30px;
 }
 .trialboxbottom{
     padding-top: 20px;
-    margin-left: 33%;
+    margin-left: 36%;
 }
 .trialwhite{
     color: white;
